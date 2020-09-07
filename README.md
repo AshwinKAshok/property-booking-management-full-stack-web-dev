@@ -1,4 +1,4 @@
-## POSTiT - place for all your thoughts (An attempt to make a reddit)
+## Hotel booking management - a full stack web dev project
 
 ## 1. What it is??
 
