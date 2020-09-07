@@ -6,7 +6,7 @@ This is an attempt to use my knowledge of frontend and backend to do a full-stac
 This project tries to mimic a travel and accommodation booking website like airbnb.
 
 ### Goal of doing this project:
-The aim main behind trying to do this project was to work with a backend that has a complicated 
+The main aim behind trying to do this project was to work with a backend that has a complicated 
 entity relationship. The complexity of the underlying entity relationships can be understood from the
 project UML diagram add to in the root of this repository.
 
